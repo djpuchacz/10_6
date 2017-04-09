@@ -1,0 +1,18 @@
+body {
+	background-color: #00C7E8;
+}
+
+h1 {
+	text-align: center;
+}
+
+.column-container {
+	display: flex;
+	justify-content: space-around;
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 0;
+	min-height: 20px;
+}
